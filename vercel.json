@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/sf/:path*", "destination": "https://scienceandfun.nexthope.site/:path*" }
+  ]
+}
